@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\张仲光\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.2.31\153dcd9ed9db246a7e36f4d7609e2a9f4718c674\kotlin-stdlib-1.2.31.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="153dcd9ed9db246a7e36f4d7609e2a9f4718c674">
+        <dex dex="C:\SecondCodeDemoTest\KotlinContentProvider\KotlinContentProvider\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.2.31_bf53b54fc34c7292aaabe5727511d3f2075899fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\张仲光\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk7\1.2.31\95d6a67e8787280a82a2059e54e4db7ac6cfe74\kotlin-stdlib-jdk7-1.2.31.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="095d6a67e8787280a82a2059e54e4db7ac6cfe74">
+        <dex dex="C:\SecondCodeDemoTest\KotlinContentProvider\KotlinContentProvider\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-jdk7-1.2.31_59259f71a2f4b0edf79fe731111e122b1bfb1317.jar" />
+    </item>
+
+</items>
