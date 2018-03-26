@@ -1,0 +1,2 @@
+# kotlinContentProvider
+使用kotlin编写ContentProvider，并实现数据可以多个应用共享
